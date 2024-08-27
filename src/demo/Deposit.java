@@ -4,6 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 public class Deposit extends JFrame implements ActionListener{
+
 	
 	JTextField amount;
 	JButton deposit,back;
